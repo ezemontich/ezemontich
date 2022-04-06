@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Seven_segment_display-animated.gif"> 
+<img src=https://i.pinimg.com/originals/59/f9/d7/59f9d7f408ab4b8d728df27fa1994df5.gif"> 
 
 <!--
 **ezemontich/ezemontich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
