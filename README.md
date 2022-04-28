@@ -1,4 +1,4 @@
-<img src=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1a148fa-fdc9-408a-b5e5-d9cc255b9d65/d2rrwmm-de7af9b0-9f1f-4c0f-b4ff-4b6b785160ce.gif"> 
+<p>!</p>
 
 <!--
 **ezemontich/ezemontich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
